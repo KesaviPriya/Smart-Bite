@@ -12,7 +12,7 @@
 
 **Track your food inventory, reduce waste, and get smart recipe suggestions based on what's expiring soon.**
 
-[Live Demo](https://smart-bite-beryl.vercel.app) • [Report Bug](https://github.com/saimani1232/SmartBite/issues) • [Request Feature](https://github.com/saimani1232/SmartBite/issues)
+[Live Demo](https://smart-bite-main.vercel.app/) • [Report Bug](https://github.com/KesaviPriya/Smart-Bite/issues)• [Request Feature](https://github.com/KesaviPriya/Smart-Bite/issues)
 
 </div>
 
@@ -80,8 +80,8 @@
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/saimani1232/SmartBite.git
-   cd SmartBite
+   git clone https://github.com/KesaviPriya/Smart-Bite.git
+   cd Smart-Bite
    ```
 
 2. **Install dependencies**
@@ -176,7 +176,7 @@ SmartBite/
    ```bash
    git add -A
    git commit -m "Initial commit"
-   git push origin main
+   git push origin master
    ```
 
 2. **Import to Vercel**
