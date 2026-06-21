@@ -219,9 +219,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 👨‍💻 Author
 
-**Sai Mani**
+**Kesavi Priya**
 
-- GitHub: [@saimani1232](https://github.com/saimani1232)
+- GitHub: [@KesaviPriya](https://github.com/KesaviPriya)
 
 ---
 
