@@ -12,7 +12,7 @@
 
 **Track your food inventory, reduce waste, and get smart recipe suggestions based on what's expiring soon.**
 
-[Live Demo](https://smart-bite-main.vercel.app/) • [Report Bug](https://github.com/KesaviPriya/Smart-Bite/issues)• [Request Feature](https://github.com/KesaviPriya/Smart-Bite/issues)
+[Live Demo](https://smart-bite-main.vercel.app/) • [Report Bug](https://github.com/KesaviPriya/Smart-Bite/issues) • [Request Feature](https://github.com/KesaviPriya/Smart-Bite/issues)
 
 </div>
 
